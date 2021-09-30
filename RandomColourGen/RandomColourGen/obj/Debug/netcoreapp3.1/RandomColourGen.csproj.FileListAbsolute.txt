@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\RandomColourGen\RandomColourGen\bin\Debug\netcoreapp3.1\RandomColourGen.exe
+C:\Users\Student\source\repos\RandomColourGen\RandomColourGen\bin\Debug\netcoreapp3.1\RandomColourGen.deps.json
+C:\Users\Student\source\repos\RandomColourGen\RandomColourGen\bin\Debug\netcoreapp3.1\RandomColourGen.runtimeconfig.json
+C:\Users\Student\source\repos\RandomColourGen\RandomColourGen\bin\Debug\netcoreapp3.1\RandomColourGen.runtimeconfig.dev.json
+C:\Users\Student\source\repos\RandomColourGen\RandomColourGen\bin\Debug\netcoreapp3.1\RandomColourGen.dll
+C:\Users\Student\source\repos\RandomColourGen\RandomColourGen\bin\Debug\netcoreapp3.1\RandomColourGen.pdb
+C:\Users\Student\source\repos\RandomColourGen\RandomColourGen\obj\Debug\netcoreapp3.1\RandomColourGen.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\RandomColourGen\RandomColourGen\obj\Debug\netcoreapp3.1\RandomColourGen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\RandomColourGen\RandomColourGen\obj\Debug\netcoreapp3.1\RandomColourGen.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\RandomColourGen\RandomColourGen\obj\Debug\netcoreapp3.1\RandomColourGen.AssemblyInfo.cs
+C:\Users\Student\source\repos\RandomColourGen\RandomColourGen\obj\Debug\netcoreapp3.1\RandomColourGen.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\RandomColourGen\RandomColourGen\obj\Debug\netcoreapp3.1\RandomColourGen.dll
+C:\Users\Student\source\repos\RandomColourGen\RandomColourGen\obj\Debug\netcoreapp3.1\RandomColourGen.pdb
+C:\Users\Student\source\repos\RandomColourGen\RandomColourGen\obj\Debug\netcoreapp3.1\RandomColourGen.genruntimeconfig.cache

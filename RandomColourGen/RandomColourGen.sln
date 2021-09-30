@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomColourGen", "RandomColourGen\RandomColourGen.csproj", "{9A877228-723B-4E06-A6EC-DB58B09E5478}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A877228-723B-4E06-A6EC-DB58B09E5478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A877228-723B-4E06-A6EC-DB58B09E5478}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A877228-723B-4E06-A6EC-DB58B09E5478}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A877228-723B-4E06-A6EC-DB58B09E5478}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4E92780-9925-4BB1-B7ED-6E169F9A50CD}
+	EndGlobalSection
+EndGlobal
